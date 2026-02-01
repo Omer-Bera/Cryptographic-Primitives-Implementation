@@ -33,6 +33,6 @@ Use standard libraries (e.g., OpenSSL, PyCryptodome) for any commercial or indus
     * Includes group order calculation and point generation logic.
 
 ### 3. Cyclic Group Generator Search
-* **File:** `cyclic_group_generator.py`
+* **File:** `cyclic_group_generator.sage`
 * **Description:** An algorithmic approach to finding generators of a cyclic group, inspired by SageMath logic.
 * **Concepts:** Group Theory, Primitive Roots, Order of an Element, Factorization.
