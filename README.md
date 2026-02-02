@@ -13,14 +13,23 @@ This repository contains raw implementations of fundamental cryptographic algori
 ## Usage
 
 **AES (C):**
+
 ```bash
 gcc aes_cbc_implementation.c -o aes
 ./aes
 ```
+
+**ECC (Python):**
+
 ```bash
 python3 ecc_finite_field.py
 ```
+
+**Cyclic Group (SageMath):**
+
 ```bash
 sage cyclic_group_generator.sage
 ```
 
+---
+*Written for academic study.*
